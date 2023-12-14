@@ -1,5 +1,5 @@
 # SurEau : please DO NOT use this version of sureau 
-The updated version of sureau is now here : https://forgemia.inra.fr/urfm/sureau
+# The updated version of sureau is now here : https://forgemia.inra.fr/urfm/sureau
 
 
 SurEau-Ecos is a mechanistic plant water model designed to simulated plant dessication and hydraulic failure. It computes water fluxes, turgor loss, cavitation, water content of symplasm and apoplasm for canopy leaves and stems. It uses soil properties, daily climate inputs and of leaf and hydraulic traits.
